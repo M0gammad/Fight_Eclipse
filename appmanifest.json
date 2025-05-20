@@ -2,7 +2,7 @@
 	"name": "Fight_Eclipse",
 	"short_name": "Fight_Eclipse",
 	"start_url": "index.html",
-	"display": "standalone",
+	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
 		"src": "icon-16.png",
